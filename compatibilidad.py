@@ -1,17 +1,6 @@
-#la mejor metodología se centra en la iteración y la experimentación basada en datos.
-#La mejor metodología: CRISP-DM
-#CRISP-DM (Cross-Industry Standard Process for Data Mining) es considerada el "estándar de oro" para proyectos de ciencia de datos e Inteligencia Artificial. Es ideal para el entorno académico porque estructura perfectamente la fase de investigación teórica con la ejecución práctica.Se compone de seis fases iterativas (si un modelo no funciona, puedes retroceder a una fase anterior):
-#Comprensión del problema (Business/Domain Understanding): Fase de investigación. ¿Qué problema intentas resolver con IA? (Ej. predecir la deserción escolar, clasificar imágenes médicas).
-#Comprensión de los datos (Data Understanding): Recopilar datos, explorarlos y verificar su calidad. En IA, los datos son tan importantes como el algoritmo.
-#Preparación de los datos (Data Preparation): Limpiar, transformar y estructurar los datos. Suele tomar el 70% del tiempo del proyecto.
 
-#Modelado (Modeling): Fase práctica. Aplicar los algoritmos de Machine Learning o Deep Learning. Aquí se ajustan los parámetros.
 
-#Evaluación (Evaluation): Medir si el modelo cumple con el objetivo de investigación inicial usando métricas (Accuracy, F1-Score, etc.) y evitar sesgos.
-
-#Despliegue (Deployment): Presentar los resultados, ya sea en un reporte académico, un artículo de investigación o una pequeña aplicación web (como Streamlit o Gradio) para que el profesor interactúe con el modelo.
-
-#Otras metodologías compatibles
+#Metodologías compatibles
 #Si el proyecto es muy grande o trabajan en equipos, CRISP-DM se puede complementar o sustituir por las siguientes metodologías:
 
 #1. Ágil / Scrum (Adaptado para IA)
